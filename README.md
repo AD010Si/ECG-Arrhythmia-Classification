@@ -94,7 +94,7 @@ Kaggle leaderboard score: _<add your score here>_
 ## Quickstart
 
 ```bash
-git clone https://github.com/<your-username>/ecg-arrhythmia-classification.git
+git clone https://github.com/AD010Si/ecg-arrhythmia-classification.git
 cd ecg-arrhythmia-classification
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
